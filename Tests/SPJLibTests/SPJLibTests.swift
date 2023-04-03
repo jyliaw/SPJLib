@@ -6,6 +6,6 @@ final class SPJLibTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertNotEqual(SPJLib().text, "Hello, World! I am Lib!")
+        XCTAssertNotEqual(SPJLib().text, "Hello, World! I am Lib! I am Lib!")
     }
 }
